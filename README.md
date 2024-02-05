@@ -19,3 +19,8 @@ For the second task, an **interaction quantification model** using data fitting 
 For the third task, a prediction for long-term trend of the preserve with our strategy is offered first. By coarse analysis, a potential profit of 3 × 107 dollars can be attained by progressively adjusting the land utilization according to our strategy. Since parameters can be adjusted according to associating features of different areas, our methodology is proved powerful enough to be applied for better development of other natural reserves as well.
 
 **Key words: “Nine-Subregion” Discrete Model, Interaction Quantification Model, “Economy-Ecosystem” Multi-objective Optimization Model, Genetic Algorithm**
+
+## Start Here
+See **2307381.pdf** for detailed proposal.
+
+See **Source Code** for algorithm implementations including Genetic Algorithm.
