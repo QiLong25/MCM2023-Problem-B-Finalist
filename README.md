@@ -1,6 +1,12 @@
 # MCM2023-Problem-B
 The Mathematical Contest in Modeling (MCM) of 2023 Team Solution
 
+## Brand New Maasai Mara“s”
+
+## Team Member
+
+Qi Long (Team Leader), Feiyu Tang, Bingjun, Guo
+
 ## Abstract
 How to balance the development of economy and the protection of wildlife in Maasai Mara has been a focus of global concern for a long time. The wildlife quantity has declined sharply in the past ten years. Worse still local economy has been negatively influenced by conflict between local people and wildlife and the covid 19 epidemic. Adjusting policy and management of Maasai Mara is extremely urgent. 
 
