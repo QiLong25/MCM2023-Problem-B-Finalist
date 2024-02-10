@@ -3,7 +3,7 @@ The Mathematical Contest in Modeling (MCM) of 2023 Team Solution
 
 ## Brand New Maasai Mara“s”
 
-![image](https://github.com/QiLong25/MCM2023-Problem-B-Finalist/assets/143149589/6b735605-536d-4883-a8fa-ea0c35e41686)
+[Award.pdf](https://github.com/QiLong25/MCM2023-Problem-B-Finalist/files/14228392/Award.pdf)
 
 ## Team Member
 
